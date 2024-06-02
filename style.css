@@ -103,9 +103,7 @@ p {
     .container h1 {
         font-size: 2.5rem; /* Diminuir o tamanho da fonte do título em telas menores */
     }
-    .yorScore, .machineScore {
-        font-size: 2rem;
-    }
+   
 
     .buttons {
         gap: 1rem;
